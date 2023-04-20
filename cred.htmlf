@@ -1,0 +1,55 @@
+ <!DOCTYPE html>
+<html>
+<head>
+<style>
+
+.button {
+  border: none;
+  color: white;
+  padding: 16px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+}
+
+h2 {
+  color: red;
+  background-color: blue;
+  opacity: 0.5;
+}
+
+.button1 {
+  background-color: black; 
+  color: gray; 
+  border: 2px solid #c90018;
+  border-radius: 18px;
+}
+
+.button1:hover {
+  background-color: #c90018;
+  color: black;
+}
+
+</style>
+
+<center><button id="home-tab"onclick="location.href='https://deossspy.github.io/natavajrusV2/index.html'" button class="button button1"">hom</button></center>
+<center><button id="hacks-tab"onclick="location.href='https://deossspy.github.io/natavajrusV2/hacks.html'" button class="button button1"">hecks</button></center>
+<FONT COLOR="#510080">
+<Body background="https://images.ctfassets.net/86mn0qn5b7d0/featured-img-of-post-128387/453140857b86bdb33cf6d2a2d37a2a46/featured-img-of-post-128387.jpg?fm=jpg&fl=progressive&q=50&w=1366">
+
+<center><h2>alfrid</h2></center>
+<center><h2>biktor bh</h2></center>
+<center><h2>biktor blomma</h2></center>
+<center><h2>ilmir</h2></center>
+<center><h2>invgi</h2></center>
+<center><h2>criator : dijin</h2></center>
+
+
+
+
+</head>
+</html>
